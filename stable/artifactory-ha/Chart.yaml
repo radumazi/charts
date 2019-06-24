@@ -15,3 +15,4 @@ icon: https://raw.githubusercontent.com/JFrogDev/artifactory-dcos/master/images/
 ## Deprecated following https://github.com/helm/charts/blob/master/PROCESSES.md#deprecating-a-chart
 ## Chart is now maintained in https://github.com/jfrog/charts
 deprecated: true
+blabla: bla
